@@ -1,0 +1,5 @@
+tchd_wesharity:
+    resource: "@TCHDWesharityBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
